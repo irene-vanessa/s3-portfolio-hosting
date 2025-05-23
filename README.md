@@ -24,19 +24,3 @@ To host your own version:
 3. Set proper bucket policy to allow public access.
 4. Optional: Add a custom domain or use Route 53 for DNS.
 
-## License
-
-MIT License
-Press Ctrl + S or Cmd + S to save the file.
-
-🖥️ STEP 3: Commit the README.md
-Open the Terminal in VS Code:
-Go to Terminal > New Terminal.
-
-Run the following commands one by one:
-
-bash
-Copy code
-git add README.md
-git commit -m "Add README file with project description"
-git push
